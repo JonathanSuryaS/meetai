@@ -25,7 +25,7 @@ import {
     DrawerTrigger
 } from "@/components/ui/drawer"
 
-import { GeneratedAvatar } from "@/components/ui/generated-avatar"
+import { GeneratedAvatar } from "@/components/generated-avatar"
 import { Button } from "@/components/ui/button"
 import { useIsMobile } from "@/hooks/use-mobile"
 
