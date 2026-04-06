@@ -18,6 +18,9 @@ export const DashboardCommand = ({ open, setOpen }: Props) => {
                 <CommandItem>
                     Test
                 </CommandItem>
+                <CommandItem>
+                    Test 2
+                </CommandItem>
             </CommandList>
         </CommandDialog>
     )
