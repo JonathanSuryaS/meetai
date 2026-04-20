@@ -1,4 +1,4 @@
-import { MeetingsView, MeetingsViewError, MeetingsViewLoding } from "@/modules/meetings/ui/meetings-view"
+import { MeetingsView, MeetingsViewError, MeetingsViewLoding } from "@/modules/meetings/ui/views/meetings-view"
 import { getQueryClient, trpc } from "@/trpc/server"
 import { dehydrate, HydrationBoundary } from "@tanstack/react-query"
 import { Suspense } from "react"
